@@ -38,8 +38,6 @@ resources = {
     "milk": 200,
     "coffee": 100,
 }
-
-
 def is_resource_sufficient(order_ingredients):
     """Returns True when order can be made, False if ingredients are insufficient."""
     for item in order_ingredients:
