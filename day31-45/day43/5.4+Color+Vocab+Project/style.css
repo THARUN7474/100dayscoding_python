@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.color-title{
+    font-weight: normal;
+  }
+  #red{
+    color: red;
+  }
+  #blue{
+    color: rgb(39, 181, 228);
+  }
+  #orange{
+    color: orange;
+  }
+  #green{
+    color: green;
+  }
+  #yellow{
+    color: yellow;
+  }
