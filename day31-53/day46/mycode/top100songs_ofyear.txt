@@ -1,0 +1,100 @@
+song number:songname::song_singer
+0:Hate It Or Love It::The Game Featuring 50 Cent
+1:Since U Been Gone::Kelly Clarkson
+2:Lonely::Akon
+3:Obsession (No Es Amor)::Frankie J Featuring Baby Bash
+4:Boulevard Of Broken Dreams::Green Day
+5:Disco Inferno::50 Cent
+6:1 Thing::Amerie
+7:Lonely No More::Rob Thomas
+8:Hollaback Girl::Gwen Stefani
+9:Rich Girl::Gwen Stefani Featuring Eve
+10:Switch::Will Smith
+11:Beverly Hills::Weezer
+12:Let Me Love You::Mario
+13:Some Cut::Trillville Featuring Cutty
+14:Mr. Brightside::The Killers
+15:Oh::Ciara Featuring Ludacris
+16:Caught Up::Usher
+17:1, 2 Step::Ciara Featuring Missy Elliott
+18:Goin' Crazy::Natalie
+19:How We Do::The Game Featuring 50 Cent
+20:Number One Spot::Ludacris
+21:Karma::Alicia Keys
+22:U Don't Know Me::T.I.
+23:Slow Down::Bobby Valentino
+24:Truth Is::Fantasia
+25:Sugar (Gimme Some)::Trick Daddy Featuring Ludacris, Lil' Kim & Cee-Lo
+26:Breakaway::Kelly Clarkson
+27:Ordinary People::John Legend
+28:Wait (The Whisper Song)::Ying Yang Twins
+29:O::Omarion
+30:Be Yourself::Audioslave
+31:Let Me Go::3 Doors Down
+32:Mockingbird::Eminem
+33:Just A Lil Bit::50 Cent
+34:It's Like That::Mariah Carey
+35:Girlfight::Brooke Valentine Featuring Lil Jon & Big Boi
+36:Look What You've Done::Jet
+37:U Already Know::112 Featuring Foxy Brown
+38:Drop It Like It's Hot::Snoop Dogg Featuring Pharrell
+39:Collide::Howie Day
+40:Baby I'm Back::Baby Bash Featuring Akon
+41:She Will Be Loved::Maroon 5
+42:Okay::Nivea Featuring Lil Jon & YoungBloodZ
+43:Beautiful Soul::Jesse McCartney
+44:Lovers And Friends::Lil Jon & The East Side Boyz Featuring Usher & Ludacris
+45:Almost::Bowling For Soup
+46:Anything But Mine::Kenny Chesney
+47:I Don't Want To Be::Gavin DeGraw
+48:Girl::Destiny's Child
+49:Signs::Snoop Dogg Featuring Charlie Wilson & Justin Timberlake
+50:I'm A Hustla::Cassidy
+51:Baby Girl::Sugarland
+52:Gone::Montgomery Gentry
+53:Incomplete::Backstreet Boys
+54:Bless The Broken Road::Rascal Flatts
+55:It's Getting Better All The Time::Brooks & Dunn
+56:Get Right::Jennifer Lopez
+57:How Could You::Mario
+58:Still Tippin'::Mike Jones Featuring Slim Thug & Paul Wall
+59:We Belong Together::Mariah Carey
+60:True::Ryan Cabrera
+61:That's What I Love About Sunday::Craig Morgan
+62:Sunday Morning::Maroon 5
+63:Scars::Papa Roach
+64:Nothin' To Lose::Josh Gracin
+65:Hold You Down::Jennifer Lopez Featuring Fat Joe
+66:E-Pro::Beck
+67:You And Me::Lifehouse
+68:B.Y.O.B.::System Of A Down
+69:Again::Faith Evans
+70:Grind With Me::Pretty Ricky
+71:Homewrecker::Gretchen Wilson
+72:If Heaven::Andy Griggs
+73:Honkytonk U::Toby Keith
+74:My Give A Damn's Busted::Jo Dee Messina
+75:The Hand That Feeds::Nine Inch Nails
+76:Songs About Me::Trace Adkins
+77:Baby Mama::Fantasia
+78:What's A Guy Gotta Do::Joe Nichols
+79:Sitting, Waiting, Wishing::Jack Johnson
+80:Lot Of Leavin' Left To Do::Dierks Bentley
+81:Lady::Lenny Kravitz
+82:So Much More::Fat Joe
+83:Jerk It Out::Caesars
+84:Holiday::Green Day
+85:Behind These Hazel Eyes::Kelly Clarkson
+86:God's Will::Martina McBride
+87:Somewhere Only We Know::Keane
+88:Making Memories Of Us::Keith Urban
+89:How Do You Get That Lonely::Blaine Larsen
+90:In The Kitchen::R. Kelly
+91:Drugs Or Jesus::Tim McGraw
+92:Chariot::Gavin DeGraw
+93:La Camisa Negra::Juanes
+94:You'll Be There::George Strait
+95:Don't Phunk With My Heart::The Black Eyed Peas
+96:I May Hate Myself In The Morning::Lee Ann Womack
+97:Sometimes You Can't Make It On Your Own::U2
+98:Little Sister::Queens Of The Stone Age
